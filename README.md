@@ -18,5 +18,4 @@ ZenQuotes API
 │── index.html        # Main HTML file  
 │── style.css         # Styling  
 │── script.js         # JavaScript logic  
-│── README.md         # Project documentation  
-│── .gitignore        # Ignored files  
+│── README.md         # Project documentation 
